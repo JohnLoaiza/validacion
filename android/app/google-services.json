@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171902831976",
+    "project_id": "autentificacion-sms",
+    "storage_bucket": "autentificacion-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171902831976:android:1ed085d59f1cd7d65a9add",
+        "android_client_info": {
+          "package_name": "com.example.validacion_telefono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171902831976-t0llbu3kee1cd34pka3ukigmmrc7ckm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.validacion_telefono",
+            "certificate_hash": "4d5be11e3af7bdfeb14ef3edb39aed039614fe1b"
+          }
+        },
+        {
+          "client_id": "171902831976-ire55f9rgthnja9fl2je7nepn5f82gfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1OQ-Hu_PqK0Crj_M-ZjOWnKwLLlk9OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171902831976-ire55f9rgthnja9fl2je7nepn5f82gfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
